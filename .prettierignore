@@ -1,4 +1,4 @@
 node_modules
 dist
 coverage
-tmp/app.db
+db/app.db
