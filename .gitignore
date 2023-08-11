@@ -2,6 +2,7 @@ node_modules
 dist
 coverage
 db/app.db
+db/test.db
 
 .env
 .env.test
