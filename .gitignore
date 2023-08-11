@@ -4,3 +4,4 @@ coverage
 db/app.db
 
 .env
+.env.test
